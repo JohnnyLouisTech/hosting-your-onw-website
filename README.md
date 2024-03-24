@@ -1,5 +1,5 @@
 # hosting-your-onw-website
-##Hosting Your Own Static Website Without Route 53
+## Hosting Your Own Static Website Without Route 53
 
 Imagine a digital space that serves as a window into your creativity, a platform where your ideas, projects, and passions come to life in a beautifully crafted showcase. Hosting your static website grants you the freedom to design, customize, and curate every aspect of your online presence, without the constraints of dynamic content management systems.
 
