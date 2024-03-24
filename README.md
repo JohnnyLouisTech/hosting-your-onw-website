@@ -21,7 +21,7 @@ Navigate to the Route 53 Service from the console home page and select register 
 ![image](https://github.com/JohnnyLouisTech/hosting-your-onw-website/assets/29494723/62200000-c2a2-4730-906b-82d32a0a2ef8)
 
 ## Create an AWS S3 Bucket
-Navigate to S3 and hit “create bucket“ —( give your bucket the same name as your domain “yourbucketbaname.click“ if you want your own domain) and select a region near you or leave it at the current region. Next, we need to un-check Block all public access, which is on by default. Leave everything else on this page as default. Example below:
+Navigate to S3 and hit “create bucket“ —( give your bucket the same name as your domain “yourbucketname.click“ if you want your own domain) and select a region near you or leave it at the current region. Next, we need to un-check Block all public access, which is on by default. Leave everything else on this page as default. Example below:
 
 ![image](https://github.com/JohnnyLouisTech/hosting-your-onw-website/assets/29494723/063c8e11-b753-466a-b101-2f44dbd22164)
 
