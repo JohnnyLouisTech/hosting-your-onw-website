@@ -1,6 +1,8 @@
 # hosting-your-onw-website
 ## Hosting Your Own Static Website Without Route 53
 
+Website link: https://mybucketsclick.s3.amazonaws.com/PORTFOLIO/index.html
+
 Imagine a digital space that serves as a window into your creativity, a platform where your ideas, projects, and passions come to life in a beautifully crafted showcase. Hosting your static website grants you the freedom to design, customize, and curate every aspect of your online presence, without the constraints of dynamic content management systems.
 
 With simplicity at its core, hosting a static website empowers you to focus on what truly matters: your content. Whether it’s a personal portfolio, a professional showcase, or a creative endeavor, your static website provides a stable, fast, and secure platform for sharing your story with the world.
